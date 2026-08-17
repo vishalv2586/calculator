@@ -27,5 +27,3 @@ public class CalculatorController implements ActionListener {
         view.txtResult.setText(String.valueOf(result));
     }
 }
-Main.java
-public class Main 
